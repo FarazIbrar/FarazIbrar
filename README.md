@@ -28,7 +28,7 @@ Hi there! 👋 My name is Faraz and I am a second-semester computer science stud
 <p>
     <summary><b>Languages</b></summary>
     <a href="https://www.w3schools.com/cpp/cpp_getstarted.asp" target="_blank">
-        <img size=10px alt="C++"
+        <img size="10px" alt="C++"
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
     </a>
     <a href="https://www.python.org" target="_blank">
