@@ -11,7 +11,7 @@ Hi there! 👋 My name is Faraz and I am a second-semester computer science stud
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=farazibrar9697@gmail.com" target="_blank">
-        <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+        <img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://github.com/FarazIbrar" target="_blank">
         <img alt="Github"
@@ -28,7 +28,7 @@ Hi there! 👋 My name is Faraz and I am a second-semester computer science stud
 <p>
     <summary><b>Languages</b></summary>
     <a href="https://www.w3schools.com/cpp/cpp_getstarted.asp" target="_blank">
-        <img alt="C++"
+        <img size=10px alt="C++"
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
     </a>
     <a href="https://www.python.org" target="_blank">
