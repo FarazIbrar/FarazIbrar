@@ -1,3 +1,4 @@
+- <h1>My name is Faraz Ibrar</h1>
 - 👋 Hi, I’m @FarazIbrar
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c 
