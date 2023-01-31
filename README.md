@@ -2,7 +2,7 @@
         width="35"></h1>
 
 ## :sassy_man: About me
-Hi there! 👋 My name is Faraz and I am a second-semester computer science student at Air University, Islamabad. My passion lies in web development. I am a proactive learner and enjoy staying up to date with the latest trends and developments in the field of computer science. I am also a team player and a creative developer who is always looking for ways to improve and take on new challenges. I have a love for the beauty of the clouds and sky and I often capture their stunning visuals.
+Hi there! 👋 My name is Faraz Ibrar and I am a second-semester computer science student at Air University, Islamabad. My passion lies in web development. I am a proactive learner and enjoy staying up to date with the latest trends and developments in the field of computer science. I am also a team player and a creative developer who is always looking for ways to improve and take on new challenges. I have a love for the beauty of the clouds and sky and I often capture their stunning visuals.
 
 ## 👯 Connect with me
 <p>
